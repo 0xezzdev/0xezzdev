@@ -10,12 +10,12 @@
 
 ### 💻 Live Terminal Session
 <div align="center">
-    <img src="https://miro.medium.com/v2/1*Awi84KRY_5cFk9P0cIhtrw.gif" width="100%" alt="Hacking Terminal" />
+    <img src="https://miro.medium.com/v2/resize:fit:1400/1*zJ-IFBI970HM5cguaOeq2Q.gif" width="100%" alt="Hacking Terminal" />
 </div>
 
 ---
 
-### 🚀 The Arsenal (Tech Stack)
+### 🚀 Tech Stack
 
 <div align="center">
 
