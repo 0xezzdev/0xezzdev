@@ -29,10 +29,7 @@
 
 ### 📊 Mission Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xezzdev&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xezzdev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=6" height="180" alt="languages" />
-</div>
+
 
 <br>
 
