@@ -10,7 +10,7 @@
 
 ### 💻 Live Terminal Session
 <div align="center">
-    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" alt="Hacking Terminal" />
+    <img src="https://miro.medium.com/v2/1*Awi84KRY_5cFk9P0cIhtrw.gif" width="100%" alt="Hacking Terminal" />
 </div>
 
 ---
