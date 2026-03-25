@@ -1,46 +1,60 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:eb1c24,100:000000&height=280&section=header&text=Ezzeldeen&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Android%20Native%20dev%20%7C%20Penetration%20Tester%20%7C%20Bug%20Hunter&descAlignY=60&descAlign=50" />
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=02569B&height=200&section=header&text=Ezzeldeen&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=50" />
+  
+  <br>
 
-<h3 align="center">
-  <samp>&gt; "I build secure Apps, and I break the insecure ones."</samp>
-</h3>
-
----
-
-### 💻 Live Terminal Session
-<div align="center">
-    <img src="https://miro.medium.com/v2/resize:fit:1400/1*zJ-IFBI970HM5cguaOeq2Q.gif" width="100%" alt="Hacking Terminal" />
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=02569B&center=true&vCenter=true&width=500&lines=Flutter+Developer+🚀;Security+Enthusiast+🛡️" alt="Typing SVG" />
+  </h1>
 </div>
 
 ---
 
-### 🚀 Tech Stack
+### 📱 About My Mission
+> **"I transform complex ideas into secure, high-performance mobile experiences."**
+> Computer Science student at Assiut University, specialized in **Flutter**. My focus is building apps that are not just beautiful, but also **bulletproof** against security threats.
+
+---
+
+### 🛠️ Professional Toolbox
 
 <div align="center">
-
-| **💻 Core Languages** | **📱 Android & Mobile** | **💀 Security & Pentesting** |
-|:---:|:---:|:---:|
-| ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) <br> ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) <br> ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) <br> ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) <br> ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) | ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) <br> ![Metasploit](https://img.shields.io/badge/Metasploit-333333?style=for-the-badge&logo=metasploit&logoColor=white) <br> ![Burp](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white) |
-
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/SOLID-Principles-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
 </div>
 
-<br>
+---
 
-### 📊 Mission Statistics
+### 🌟 Top Tier Projects
 
+#### 🚀 [StudyGrid](https://github.com/0xezzdev/StudyGrid)
+*The ultimate workspace for students, built for scale and security.*
+- **Tech:** Flutter + Supabase + Firebase.
+- **Highlights:** Full SOLID implementation & Offline support.
 
+#### 🚆 [Qatrak](https://github.com/0xezzdev/Qatrak)
+*Advanced Real-time Railway Tracking System.*
+- **Status:** Development Phase.
 
-<br>
+---
+
+### 📊 System Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xezzdev&theme=radical&hide_border=true&background=0d1117" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xezzdev&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0xezzdev&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />
 </div>
 
 ---
 
 <div align="center">
-  <samp>Connect with me via <a href="mailto:ezzeldeen.dev@gmail.com">Email</a> or find me on the Dark Web (Just kidding... or am I?)</samp>
+  <samp>Let's build something secure: <a href="mailto:ezzeldeen.dev@gmail.com">Email Me</a></samp>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=0xezzdev&style=flat-square&color=ff0000&label=PROFILE+VIEWS" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=0xezzdev&label=PROFILE+VIEWS&color=02569B&style=flat-square" alt="views" />
 </div>
