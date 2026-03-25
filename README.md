@@ -53,8 +53,14 @@
 
 ---
 
+### 🤝 Let's Connect
 <div align="center">
-  <samp>Let's build something secure: <a href="mailto:ezzeldeen.dev@gmail.com">Email Me</a></samp>
+  <a href="https://www.linkedin.com/in/0xezzdev">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ezzeldeen.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=0xezzdev&label=PROFILE+VIEWS&color=02569B&style=flat-square" alt="views" />
 </div>
